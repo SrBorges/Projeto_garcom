@@ -10,6 +10,7 @@ desde download para youtube, pesquisa, envio de mensagem automática entre outro
 
 
 # INSTALAÇÃO 
+python3
 
 pip install pytube3
 

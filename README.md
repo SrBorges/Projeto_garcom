@@ -12,4 +12,5 @@ desde download para youtube, pesquisa, envio de mensagem automática entre outro
 # INSTALAÇÃO 
 
 pip install pytube3
+
 pip install pywhatkit

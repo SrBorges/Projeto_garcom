@@ -1,4 +1,4 @@
-
+![ga](https://user-images.githubusercontent.com/96485637/147664654-e4065cb0-3ea2-4b4f-884b-189d2ae1bb3e.png)
 
 
 # DESCRIÇÃO
@@ -8,13 +8,6 @@ objetivo simplificar umas funções que podem ser realizadas de forma mais rápi
 o programa consiste em utilizar o navegador como um meio, porem tudo pode ser pedido pela área de trabalho 
 desde download para youtube, pesquisa, envio de mensagem automática entre outros detalhes. 
 
-
-.------..------..------..------..------..------.
-|G.--. ||A.--. ||R.--. ||C.--. ||O.--. ||M.--. |
-| :/\: || (\/) || :(): || :/\: || :/\: || (\/) |
-| :\/: || :\/: || ()() || :\/: || :\/: || :\/: |
-| '--'G|| '--'A|| '--'R|| '--'C|| '--'O|| '--'M|
-`------'`------'`------'`------'`------'`------'
 
 # INSTALAÇÃO 
 

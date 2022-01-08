@@ -10,8 +10,8 @@ desde download para youtube, pesquisa, envio de mensagem automática entre outro
 
 
 # INSTALAÇÃO 
-python3
+- python3
 
-pip install pytube3
+- pip install pytube3
 
-pip install pywhatkit
+- pip install pywhatkit

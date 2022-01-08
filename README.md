@@ -9,7 +9,7 @@ o programa consiste em utilizar o navegador como um meio, porem tudo pode ser pe
 desde download para youtube, pesquisa, envio de mensagem automática entre outros detalhes. 
 
 
-# INSTALAÇÃO 
+# REQUISITOS  
 - python3
 
 - pip install pytube3
